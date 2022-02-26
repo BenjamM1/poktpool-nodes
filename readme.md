@@ -14,10 +14,3 @@ python3 getNodes.py
 
 python3 getServicers.py
 ```
-
-
-## Support
-
-If you support this work and wish to donate, then it would mean the world to me.
-
-POKT wallet: c4bd169241a0b40acbf0a6917f3c74bdf42295f9
